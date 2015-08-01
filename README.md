@@ -1,11 +1,11 @@
 # ScaleNSTextField
 
-Scaling an NSTextField  acording to the pixel size of the screen thats going to full screen mode.
+Scaling an NSTextField  according to the pixel size of the screen thats going to full screen mode.
 
-it gets the size and posion of the NsTextField  in % of the NSview it´s in,
-and scales the NSTextFiled with that giveing % of the full screen vie.
+it gets the size and poison of the NsTextField  in % of the NSView it´s in,
+and scales the NSTextFiled with that giving % of the full screen view.
 
-The view dos not use autolayout, it just dident scale the NSTextField the way i wanted.
+The view dos not use autolayout, it just didn't scale the NSTextField the way i wanted.
 
 
 i made a simpel demo that  uses a NSTextField to show the current time.
